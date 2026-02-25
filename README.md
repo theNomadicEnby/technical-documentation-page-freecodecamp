@@ -16,7 +16,7 @@ Live project link: <https://thenomadicenby.github.io/product-landing-page-freeco
 
 ## Objective
 
-- [x] Build an app that is functionally similar to <https://product-landing-page.freecodecamp.rocks>.
+- [x] Build an app that is functionally similar to <https://technical-documentation-page.freecodecamp.rocks/>.
 
 ## User stories
 - [x] You can see a `main` element with a corresponding `id="main-doc"`, which contains the page's main content (technical documentation).
